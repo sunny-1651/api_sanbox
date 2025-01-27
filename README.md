@@ -30,5 +30,5 @@ curl http://localhost:1651/fetchid/VPK9MQRKX2L847HQ
 
 It uses gin & net/http for basic backend utils.
 
-> Source for dunny data
+> Source for dummy data  
 > [https://microsoftedge.github.io/Demos/json-dummy-data/](https://microsoftedge.github.io/Demos/json-dummy-data/)
