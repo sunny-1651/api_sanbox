@@ -1,7 +1,7 @@
 # api_sanbox
 
-This is a API sanbox for testing simple API calls without using toools like postman
-To run in linux
+This is an API sandbox for testing simple API calls without using tools like postman.  
+To run on Linux
 ```
 go mod tiny
 go build -o bin/api_sandbox
